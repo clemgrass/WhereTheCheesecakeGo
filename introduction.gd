@@ -1,6 +1,7 @@
 extends Node2D
 
 func _ready():
+	Game.reset_run()
 	_load_dialogues()
 
 

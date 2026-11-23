@@ -168,7 +168,7 @@ do _cat_out()
 		if Q1 == false
 			Secretary: I mean does anyone like their job?, I just do it for the money.
 			Secretary: Don’t get me wrong it's not bad but… You know… It's not the best either.
-			do _change_nikola_expression(\"res://Assets/media/nikola_surpised.png\")
+			do _change_nikola_expression(\"res://Assets/media/nikola_surprised.png\")
 			do _soul_down()
 			set Q1 = true
 		else: 
@@ -756,7 +756,7 @@ Nikola: What to do.
 	if E1 and E2 and E3 == true
 		=> RealEnding
 	else:
-		do _change_nikola_expression(\"res://Assets/media/nikola_Sad.png\")
+		do _change_nikola_expression(\"res://Assets/media/nikola_sad.png\")
 		Cat: Meow
 		do _soul_down()
 		=> FoodDistrict2
@@ -828,7 +828,7 @@ Nikola: What to do.
 			set clue = true
 			set Q3 = true
 		else:
-			do _change_nikola_expression(\"res://Assets/media/nikola_Sad.png\")
+			do _change_nikola_expression(\"res://Assets/media/nikola_sad.png\")
 			Kuchen Owner: You've already asked me this.
 			do _soul_down()
 		=> Park2
@@ -1805,7 +1805,7 @@ Nikola: There is a weird machine, in the side its says CCE... What the fuck is t
 do _change_nikola_expression(\"res://Assets/media/nikola_sad.png\")
 - Who’s there?
 do _aliens_in()
-do _change_nikola_expression(\"res://Assets/media/nikola_surrprised.png\")
+do _change_nikola_expression(\"res://Assets/media/nikola_surprised.png\")
 Aliens: We have been caught it looks like, but this place, at this time you have not forgotten have you, before you freak out we are what you would call aliens, technically what you’re looking at is your own sub consciousness of what aliens look like, we could transform into any human form, but we thought that maybe your special, are we wrong?
 do _change_nikola_expression(\"res://Assets/media/nikola.png\")
 - I don’t care about being special or you being aliens what happen to the cheesecakes?
@@ -9429,7 +9429,7 @@ lines = {
 "type": "function",
 "value": [ [ {
 "type": "string",
-"value": "res://Assets/media/nikola_surpised.png"
+"value": "res://Assets/media/nikola_surprised.png"
 } ] ]
 } ]
 },
@@ -11591,7 +11591,7 @@ lines = {
 "type": "function",
 "value": [ [ {
 "type": "string",
-"value": "res://Assets/media/nikola_surrprised.png"
+"value": "res://Assets/media/nikola_surprised.png"
 } ] ]
 } ]
 },
@@ -19456,7 +19456,7 @@ lines = {
 "type": "function",
 "value": [ [ {
 "type": "string",
-"value": "res://Assets/media/nikola_Sad.png"
+"value": "res://Assets/media/nikola_sad.png"
 } ] ]
 } ]
 },
@@ -20322,7 +20322,7 @@ lines = {
 "type": "function",
 "value": [ [ {
 "type": "string",
-"value": "res://Assets/media/nikola_Sad.png"
+"value": "res://Assets/media/nikola_sad.png"
 } ] ]
 } ]
 },
