@@ -6,7 +6,7 @@ A detective visual novel. You play Nikola, the only person in the city who remem
 
 ![Nikola questions the mayor's secretary: a question that leads nowhere, and the soul bar drops](docs/media/alma-baja.gif)
 
-> **Released** · v1.0.0 · Windows and Linux · English only · itch page: coming soon
+> **Released** · v1.0.0 · Windows and Linux · English only · Play it on itch: [cgrassdev.itch.io/where-the-cheesecakes-go](https://cgrassdev.itch.io/where-the-cheesecakes-go)
 
 ## How to play
 

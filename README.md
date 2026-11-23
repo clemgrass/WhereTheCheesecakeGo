@@ -6,7 +6,7 @@ Novela visual de detectives. Eres Nikola, la única persona de la ciudad que rec
 
 ![Nikola interroga a la secretaria del alcalde: una pregunta que no lleva a nada y la barra de alma baja](docs/media/alma-baja.gif)
 
-> **Terminado** · v1.0.0 · Windows y Linux · Solo en inglés · Página en itch: próximamente
+> **Terminado** · v1.0.0 · Windows y Linux · Solo en inglés · Juégalo en itch: [cgrassdev.itch.io/where-the-cheesecakes-go](https://cgrassdev.itch.io/where-the-cheesecakes-go)
 
 ## Cómo se juega
 
